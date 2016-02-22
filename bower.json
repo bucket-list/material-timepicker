@@ -5,6 +5,6 @@
   "authors": [
     "Andrey <a.stegno@gmail.com>"
   ],
-  "main": "picker.js",
+  "main": ["timepicker.js", "dist/css/timepicker.css"],
   "license": "MIT"
 }

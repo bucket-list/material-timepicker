@@ -26,5 +26,6 @@
     "gulp-rimraf": "^0.2.0",
     "mocha": "^2.3.3",
     "sinon": "^1.17.1"
-  }
+  },
+  "dependencies": {}
 }

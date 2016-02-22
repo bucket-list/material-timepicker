@@ -1,3 +1,4 @@
+browserify dist/js/timepicker.js --standalone TimePicker -x > timepicker.js
 git add .
 git commit -m "$1"
 git push origin master

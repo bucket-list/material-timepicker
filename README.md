@@ -7,7 +7,8 @@
 Available on NPM only currently  
 
 ```
-npm install material-timepicker
+bower install git@github.com:bucket-list/material-timepicker.git
+#npm install material-timepicker
 ```
 
 ## About
